@@ -1,5 +1,6 @@
 # AppleMusicCrawler
-
+## Notice
+    1. Convesion function to youtube music will be updated soon!
 ## Usage
     1. Input shared Apple music play list link
     
